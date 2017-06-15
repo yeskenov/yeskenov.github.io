@@ -4,9 +4,11 @@ margin-top: 30%;
 }
 .blk { width: 5%;
 float: left;}
-.insta,.fcbk,.edpg,.ytb { width: 10%
+.insta,.fcbk,.edpg,.ytb { width: 5%;
+  float: right;
+  margin-left:  1%
 }
 .social { float: right;
-  width: 70%
+  width: 40%
 
 }
