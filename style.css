@@ -1,3 +1,10 @@
 a { font-style: italic;
-
+text-decoration:none;
+}
+.blk { width: 5%;
+float: left;}
+.social {
+  float: right;
+}
+.insta,.fcbk,.edpg,.ytb { width: 5%
 }
