@@ -2,14 +2,13 @@ body { background-image: url(http://kurmashev.kz/wp-content/uploads/2016/02/Logo
 background-attachment: fixed;
 background-size: cover;
 }
-.head { margin-top: 0%;
+.head {
 background-color: white;
-position: fixed;
 padding: 0.7em;
 border-radius: 0.3em;
 opacity: 0.6}
 .head:hover {
-  opacity:2;
+  opacity:1;
 }
 .bas { font-size: 2.7em ;
   font-family: 'Mogra', cursive;
@@ -28,9 +27,15 @@ float: left;}
 .insta,.fcbk,.edpg,.ytb {width: 3.5%;
   float: right;
   margin-left:  2%;
-
 }
-.social { float: right;
+.social {
   width: 40%
+}
+.txt { font-size: 1.5em;
+  float: left;
+  width: 60%;
+}
+.ktl { float: right;
 
+  width:35em
 }
