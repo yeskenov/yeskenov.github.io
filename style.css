@@ -1,12 +1,11 @@
 .head { margin-top: 2%;
 padding: 10px solid black;
 }
-.bas { margin-top: 10%;
+.bas { font-size: 1.7em ;
   font-style: italic;
   margin-left: 2%;
 
 text-decoration:none;
-margin-top: 30%;
 }
 .blk { width: 5%;
 float: left;}
