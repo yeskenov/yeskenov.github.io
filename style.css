@@ -1,18 +1,19 @@
-.head { margin-top: 2%;
+.head { margin-top: 1%;
 padding: 10px solid black;
 }
 .bas { font-size: 1.7em ;
+  font
   font-style: italic;
   margin-left: 2%;
 
 text-decoration:none;
 }
-.blk { width: 5%;
+.blk { width: 4%;
 float: left;}
 .ytb { margin-top: 0.7%;
 
 }
-.insta,.fcbk,.edpg,.ytb { width: 5%;
+.insta,.fcbk,.edpg,.ytb { width: 4%;
   float: right;
   margin-left:  1%
 }
