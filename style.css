@@ -10,7 +10,7 @@ padding: 0.7em;
 border-radius: 0.3em;
 opacity: 0.6;
 position: fixed;
-text-decoration: none;
+
 }
 .head:hover {
   opacity:1;
@@ -44,3 +44,7 @@ float: left;}
   border-radius: 0.3em;
 }
 .txt:hover {background-color: rgba(192, 192, 192, 1)}
+
+.img1,.img2,.img3,.img4 {
+  width: 40%;
+}
