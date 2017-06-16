@@ -48,7 +48,7 @@ float: left;}
 width:80%;}
 
 .img1,.img2,.img3,.img4 { border:1em solid yellow;
-  width: 40em;
+  width: 30em;
   height: 25em;
 }
 .img1:hover,.img2:hover,.img3:hover,.img4:hover { border:1em solid yellow;
