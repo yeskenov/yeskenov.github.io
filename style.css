@@ -44,11 +44,16 @@ float: left;}
   border-radius: 0.3em;
   margin-top: 5%;
 }
-.txt:hover {background-color: rgba(192, 192, 192, 1)}
+.txt:hover {background-color: rgba(192, 192, 192, 1);
+width:80%;}
 
 .img1,.img2,.img3,.img4 { border:1em solid yellow;
   width: 40em;
   height: 25em;
+}
+.img1:hover,.img2:hover,.img3:hover,.img4:hover { border:1em solid yellow;
+  width: 50em;
+  height: 35em;
 }
 .ssylka {margin-top:5%;}
 .footer {background-color:rgb(192, 192, 192);
