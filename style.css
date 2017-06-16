@@ -46,9 +46,14 @@ float: left;}
 }
 .txt:hover {background-color: rgba(192, 192, 192, 1)}
 
-.img1,.img2,.img3,.img4 {
+.img1,.img2,.img3,.img4 { border:1em solid yellow;
   width: 40em;
   height: 25em;
 }
 .ssylka {margin-top:5%;}
-.footer {background-color:}
+.footer {background-color:rgb(192, 192, 192);
+  opacity:0.5;
+  margin-left: 20%;
+  margin-right: 20%;
+border-radius: 0.3em;}
+.footer:hover {opacity: 1}
