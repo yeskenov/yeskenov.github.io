@@ -25,9 +25,13 @@ body {
 #navbar:hover {
   opacity:1;
 }
+.navig { margin-top: 7%;}
 @media screen and (max-width: 768px) {
   #navbar {opacity:0;}
   #navbar:hover {opacity:0;}
+  .navig {margin-top: 0%;
+
+  }
 }
 @media screen and (max-width: 768px) {
   .btn-group {
