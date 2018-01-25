@@ -29,6 +29,12 @@ body {
   #navbar {opacity:0;}
   #navbar:hover {opacity:0;}
 }
+@media screen and (max-width: 768px) {
+  .btn-group {
+    display: none;
+
+  }
+}
 #elit {
   width: 45%;
   margin-left:20%;
